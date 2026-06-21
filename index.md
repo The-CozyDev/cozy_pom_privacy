@@ -33,3 +33,4 @@ This Privacy Policy may be updated from time to time.
 ## Contact
 
 TheCozyDev
+thecozydev@proton.me
